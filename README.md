@@ -6,4 +6,4 @@ A Bilibili all types of quality UP recommended warehouse.
 
 ## 📑目录
 - 01 知识区UP
-  - 01 [初中知识教育](知识区UP/初中知识教育.md)
+  - 01 [初中教育](知识区UP/知识区UP.md)
